@@ -1,0 +1,5 @@
+C:\Users\anderson.lalmeida\Desktop\src\DeliveryRoutes\obj\Debug\net6.0\DeliveryRoutes.csproj.AssemblyReference.cache
+C:\Users\anderson.lalmeida\Desktop\src\DeliveryRoutes\obj\Debug\net6.0\DeliveryRoutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anderson.lalmeida\Desktop\src\DeliveryRoutes\obj\Debug\net6.0\DeliveryRoutes.AssemblyInfoInputs.cache
+C:\Users\anderson.lalmeida\Desktop\src\DeliveryRoutes\obj\Debug\net6.0\DeliveryRoutes.AssemblyInfo.cs
+C:\Users\anderson.lalmeida\Desktop\src\DeliveryRoutes\obj\Debug\net6.0\DeliveryRoutes.csproj.CoreCompileInputs.cache
